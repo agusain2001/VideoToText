@@ -1,0 +1,4 @@
+google-generativeai
+langchain 
+youtube-transcript-api 
+flask
