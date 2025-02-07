@@ -1,4 +1,0 @@
-streamlit 
-whisper 
-yt-dlp 
-google-generativeai
