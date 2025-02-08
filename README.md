@@ -68,8 +68,8 @@ youtube_ai_agent/
 ## 🛠 Installation & Setup
 1️⃣ **Clone the repository:**
 ```bash
-git clone https://github.com/your-repo/youtube_ai_agent.git
-cd youtube_ai_agent
+git clone https://github.com/agusain2001/VideoToText.git
+
 ```
 
 2️⃣ **Install dependencies:**
